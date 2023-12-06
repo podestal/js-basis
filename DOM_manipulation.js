@@ -11,3 +11,4 @@ document.body.appendChild(h2)
 const target = document.querySelector('body')
 handleClick = () => console.log('Clicked the body')
 target.addEventListener('click', handleClick)
+
